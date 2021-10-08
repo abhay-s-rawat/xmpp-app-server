@@ -1,0 +1,32 @@
+{
+  "name": "xmpp_push_server",
+  "version": "1.0.0",
+  "description": "This is a xep0357 App server. You can host it on your machine/server without exposing things to third party app server.",
+  "main": "push.js",
+  "scripts": {
+    "start": "node push.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhay Rawat",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "@xmpp/client-core": "^0.13.0",
+    "@xmpp/component": "^0.13.0",
+    "@xmpp/debug": "^0.13.0",
+    "@xmpp/iq": "^0.13.0",
+    "firebase-admin": "^9.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhay-s-rawat/xmpp-app-server.git"
+  },
+  "keywords": [
+    "xep0357",
+    "xep-0357",
+    "ejabberd-push-appserver"
+  ],
+  "bugs": {
+    "url": "https://github.com/abhay-s-rawat/xmpp-app-server/issues"
+  },
+  "homepage": "https://github.com/abhay-s-rawat/xmpp-app-server#readme"
+}

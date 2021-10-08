@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"xmpp_push_server","dependencies":{"@xmpp/client-core":{"version":"0.13.0"},"@xmpp/component":{"version":"0.13.0"},"@xmpp/debug":{"version":"0.13.0"},"@xmpp/iq":{"version":"0.13.0"},"firebase-admin":{"version":"9.12.0"}}}
