@@ -2,14 +2,14 @@
 <a href="https://www.buymeacoffee.com/abhayrawat" target="_blank"><img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="30px" width= "108px"></a>
 </p> 
 
-# simple_xmpp_push_appserver
+# simple xmpp push appserver
 
 Simple XEP-0357 xmpp push app server . External component for ejabberd server (XEP-0357). You can try with other xmpp servers.
 
 Liked my work ? [support me](https://www.buymeacoffee.com/abhayrawat)
 If you want to have a quick conversation, you can connect via linkedin. [linkedin](http://linkedin.com/in/abhay-rawat-8478a088)
 
-## myxmpp.sql file contains the basic sql commands to set thing in mysql. Just import it to your mysql/maridb server.
+## myxmpp.sql file contains the basic sql commands to set things in mysql. Just import it to your mysql/maridb server.
 
 ## Client (App user) send following iq stanza to register his/her token. 
 Device type can be integer representing android or ios. You can remove it if it serves no purpose to you.
